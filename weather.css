@@ -1,0 +1,74 @@
+h1 {
+    background-color: rgb(80,80,250);
+    border-radius: 5px;
+    z-index: 2;
+	position: relative;
+	width: 95%;
+	margin-top: 5px;
+	height: 80px;
+	margin-bottom: 10px;
+}
+
+form {
+	padding: 15px;
+    position: relative;
+	float: none;
+	margin-top: 15px;
+	width: 85%;
+	height: 250px;
+    background-color: rgb(150,150,250);
+	margin-bottom: 10px;
+	clear: both;
+
+}
+ #button {
+ 	position: relative;
+ 	float: left;
+	margin-left: 100px;
+	width: 90px;
+ 	clear: both;
+ }
+#suggArea {
+    position: relative;
+	float: left;
+	margin-top: 5px;
+	margin-left: 15px;
+	width: 25%;
+	height: 180px;
+	background-color:silver;
+	margin-bottom: 10px; 
+}
+
+#dispcitydiv {
+	position: relative;
+	clear: both;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	width: 100%;
+	background-color: rgb(100,100,100);
+	
+}
+
+#dispcity {
+	margin-left: 10px;
+	margin-bottom: 10px;
+	height: 80px;
+	witdth: 200px;
+}
+
+#city {
+	font-weight: bold;
+	width: 50px;
+	margin-top: 15px;
+	margin-left: 100px;
+	background-color: rgb (230,230,230);
+	font-size: medium;
+}
+body {
+ background-color: rgb(200,200,200);
+}
+
+#currWeather {
+	margin-left: 20px;
+	font-weight: bold;
+}
